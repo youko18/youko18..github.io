@@ -92,6 +92,8 @@ JSON 有两种数据结构：</br>
 名称/值对的集合：key : value 样式；</br>
 值的有序列表：就是 Array；</br>
 而在 JSON 的文档中说明只要是不符合上面两种结构的都不被支持，并提示错误（http://www.ietf.org/rfc/rfc7159.txt）</p>
+
+<img src="/images/Snipaste_2020-12-18_22-46-42.png">
 ]]></content>
   </entry>
 </search>
